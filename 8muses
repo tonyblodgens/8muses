@@ -884,3 +884,5 @@ exports.resetSettings = resetSettings;
 
 },{"./NHentaiHelper":49}]},{},[48])(48)
 });
+module.exports = { EightMusesComics };
+
